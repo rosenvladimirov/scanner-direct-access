@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e56c0a76-e8fa-45a7-89ee-5b83b77724ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../installations-helper/.idea/installations-helper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../installations-helper/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../installations-helper/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../installations-helper/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../installations-helper/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../installations-helper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../installations-helper/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l10n_au-locales/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l10n_au-locales/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l10n_au-locales/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l10n_au-locales/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l10n_au-locales/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l10n_au-locales/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l10n_au-locales/l10n_au_eori/views/report_purchase_order_templates.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l10n_au-locales/l10n_au_eori/views/report_sale_templates.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l10n_au-locales/l10n_au_eori/views/report_templates.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l10n_au-locales/l10n_au_extend/models/account_payment_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l10n_au-mec/report/invoice_report_templates.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../account-analytic" beforeDir="false" afterPath="$PROJECT_DIR$/../account-analytic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../account-financial-reporting/account_financial_report/report/templates/vat_report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../account-financial-reporting/account_financial_report/report/templates/vat_report.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../account-financial-tools" beforeDir="false" afterPath="$PROJECT_DIR$/../account-financial-tools" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../installations-helper/repositoryes.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../installations-helper/repositoryes.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_au_extend/.idea/l10n_au_extend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_au_extend/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_au_extend/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_au_extend/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_au_extend/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_au_extend/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_au_extend/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_au_extend/__manifest__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_au_extend/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_au_extend/models/account_invoice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_au_extend/models/account_move.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_au_extend/models/product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_au_extend/models/report_u30.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_au_extend/models/res_company.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_au_extend/models/res_partner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_au_extend/static/pdf/U30.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l10n_bg-locales" beforeDir="false" afterPath="$PROJECT_DIR$/../l10n_bg-locales" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reporting-engine" beforeDir="false" afterPath="$PROJECT_DIR$/../reporting-engine" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reporting-engine-new" beforeDir="false" afterPath="$PROJECT_DIR$/../reporting-engine-new" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sale-workflow" beforeDir="false" afterPath="$PROJECT_DIR$/../sale-workflow" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web" beforeDir="false" afterPath="$PROJECT_DIR$/../web" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../website" beforeDir="false" afterPath="$PROJECT_DIR$/../website" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="786" />
+    <option name="y" value="39" />
+    <option name="width" value="804" />
+    <option name="height" value="844" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e56c0a76-e8fa-45a7-89ee-5b83b77724ea" name="Default Changelist" comment="" />
+      <created>1557948963259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557948963259</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="34" width="1600" height="866" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24967825" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="GitLabIntegration" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>
